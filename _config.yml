@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: ownCloud Quickstart
+description: A quick start guide to ownCloud
+baseurl: "Test"
